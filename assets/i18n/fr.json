@@ -1,0 +1,23 @@
+{
+  "nav.home": "Accueil",
+  "nav.pubs": "Publications",
+
+  "hero.tag": "// bonjour le monde",
+  "hero.role": "Diplômé de master en TAL",
+  "hero.affil": "Université de la Sarre, Sarrebruck, Allemagne",
+
+  "about.p1": "Je viens d'obtenir mon diplôme du <a href=\"https://lct-master.org\">master européen en technologies du langage et de la communication</a>, délivré conjointement par l'Université de Lorraine et l'Université de la Sarre. J'ai eu la chance de travailler avec le Pr Dr <a href=\"https://www.lsv.uni-saarland.de/people/dietrich-klakow/\">Dietrich Klakow</a>, la Pr Dr <a href=\"https://www.helmholtz-hips.de/en/research/people/person/prof-dr-olga-kalinina/\">Olga Kalinina</a> et le Dr <a href=\"https://www.helmholtz-hips.de/en/research/people/person/kenan-bezhueyuek/\">Kenan Bozhüyük</a> au sein du <a href=\"https://www.lsv.uni-saarland.de/\">groupe LSV</a> pour mon mémoire de master.",
+  "about.p2": "Auparavant, j'ai obtenu ma licence de traduction à l'Université des études étrangères du Guangdong.",
+
+  "news.title": "Actualités",
+  "news.1": "Découvrez notre nouveau <a href=\"https://www.biorxiv.org/content/10.64898/2026.06.15.732251v1\">prépublication</a> sur la prédiction des domaines A des NRPS.",
+
+  "contact.title": "Ailleurs",
+
+  "pubs.tag": "// travaux choisis",
+  "pubs.title": "Publications",
+  "pubs.intro": "Liste par ordre antéchronologique. † indique une contribution égale.",
+  "pubs.type.journal": "Revue",
+  "pubs.type.preprint": "Prépublication",
+  "pubs.type.conference": "Conférence"
+}
