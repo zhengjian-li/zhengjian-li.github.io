@@ -33,7 +33,7 @@ html[data-theme="dark"] {
 
 * { box-sizing: border-box; }
 
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; font-size: 90%; } /* scale all rem-based sizing down 10% */
 
 body {
   margin: 0;
