@@ -33,7 +33,7 @@ html[data-theme="dark"] {
 
 * { box-sizing: border-box; }
 
-html { scroll-behavior: smooth; font-size: 90%; } /* scale all rem-based sizing down 10% */
+html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
@@ -41,7 +41,7 @@ body {
   color: var(--fg);
   font-family: var(--font-sans);
   font-weight: 400;
-  font-size: clamp(1.1rem, 0.95rem + 0.6vw, 1.25rem);
+  font-size: 1em;
   line-height: 1.7;
   letter-spacing: 0.01em;
   -webkit-font-smoothing: antialiased;
@@ -96,7 +96,7 @@ a:hover { border-bottom-color: var(--accent); }
 
 .nav-link {
   color: var(--fg-soft);
-  font-size: 1.2rem;
+  font-size: 1rem;
   text-transform: lowercase;
   letter-spacing: 0.05em;
   border: none;
